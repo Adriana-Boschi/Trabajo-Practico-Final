@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: cadetblue;
+    
+}
+h1{
+    background-color: blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin: 20px;
+
+}
+h2{
+    background-color: crimson;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin: 30px;
+}
+h3{
+    background-color: rgb(243, 220, 12);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+    margin: 40px;
+}
